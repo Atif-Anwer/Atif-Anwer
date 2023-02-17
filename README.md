@@ -2,8 +2,8 @@
 
 - 🌎 From: 🇵🇰 
 - 🌎 Currently Located in: 🇫🇷
-- 🔭 I’m currently working on : Pose Estimation, Medical Segmentation
-- 📫 Always available on: Email, Discord
+- 🔭 I’m currently working on : Human Shape & Pose Estimation, Medical Segmentation
+- 📫 Always available via: Email, Discord
 - ⚡ Fun fact: Avid PC gamer, overall geek :)
 
 <h2> 🚀 &nbsp;Tools, Skills and Stats</h2>
