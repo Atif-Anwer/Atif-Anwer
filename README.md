@@ -20,6 +20,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg"  width="45" height="45" />
 </p>
 
+![Atif's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atif-Anwer&show_icons=true&theme=synthwave&bg_color=00000000&hide_border=True)
 
 <!-- <p align="center"> -->
 <!--   <img src= "https://i.giphy.com/media/q217GUnfKAmJlFcjBX/giphy.webp"> -->
