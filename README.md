@@ -18,7 +18,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg"  width="30" height="30" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg"  width="30" height="30" />
-</p>
+<!-- </p>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Atif-Anwer&show_icons=true&theme=merko&bg_color=00000000&hide_border=True)
 
@@ -29,8 +29,8 @@
 
 <!-- <h2> 📈 &nbsp;GitHub History</h2> -->
 
-![ ](https://github.com/atif-anwer/atif-anwer/blob/output/github-contribution-grid-snake.svg)
-  
+<!-- ![ ](https://github.com/atif-anwer/atif-anwer/blob/output/github-contribution-grid-snake.svg) -->
+
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
